@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ChiDrive",
-    "slug": "ChiDrive",
+    "name": "UberClone",
+    "slug": "uberclone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An Uber clone utilizing React Native, Google Places Autocomplete, Google Directions API, Google Matrix API, Tailwind, and Redux"
   }
 }
